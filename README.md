@@ -1,4 +1,4 @@
-# Analyse de Sentiments Twitter à l'aide du Traitement Distribué et de la Gestion des Données Massives (2023) #NLP #TraitementDistribué #BigData #Twitter
+# Analyse de Sentiments Twitter à l'aide du Traitement Distribué et de la Gestion des Données Massives (2023) 
 
 Ce projet, réalisé dans le cadre du module "Traitements Distribués et Gestion des Données Massives" en 2023, se concentre sur l'analyse des sentiments des tweets en utilisant des techniques de Traitement du Langage Naturel (NLP). L'objectif principal est d'extraire des informations utiles à partir de masses de données textuelles provenant de Twitter, en évaluant les sentiments associés à différents mots et expressions.
 
@@ -21,7 +21,7 @@ Les résultats obtenus ont été encourageants, avec une capacité à extraire l
 ### Prérequis
 - Python (version X.X ou supérieure)
 - Packages Python : nltk, scikit-learn, etc.
-- 
+
 ### Installation
 1. Clonez ce dépôt sur votre machine locale.
 2. Assurez-vous d'installer toutes les dépendances en exécutant `pip install nltk`.
